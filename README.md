@@ -1,5 +1,5 @@
 # Stationery Store Management System
-
+![Login Page](ssms.png)
 ## Overview
 This is an ASP.NET web application built with VB.NET for managing a stationery store. It provides role-based access for Admins, Managers, and Salespersons to handle users, employees, products, orders, and inventory reports. The application uses SQL Server for data storage and Bootstrap 5 for a clean, responsive UI with a darker green theme (`#003300`).
 
